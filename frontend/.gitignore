@@ -1,0 +1,15 @@
+node_modules
+*.local
+.env
+firebaseConfig.js
+DashboardCard01.jsx
+DashboardCard03.jsx
+DashboardCard04.jsx
+DashboardCard06.jsx
+DashboardCard07.jsx
+DashboardCard08.jsx
+DashboardCard09.jsx
+DashboardCard10.jsx
+DashboardCard11.jsx
+DashboardCard12.jsx
+DashboardCard13.jsx
